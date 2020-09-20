@@ -166,4 +166,4 @@ str(report)
 # the report object is a list, which has three elements for three unique experiment accession.
 # Two sub-elements can be found for each experiment. The first one is the Mantel test p value
 # The second is a vector storing the sample group assignment.
-dev.off()
+dev.off() # close the graphic machine to get the pdf file of dendrograms
