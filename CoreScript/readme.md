@@ -1,1 +1,1 @@
-# There are two scripts provided for Microarray studies and RNA-seq studies, respectively. Please browse the folders of your interest
+### Even though the core steps of GAUGE, which are Mantel test and sample group assignment, are the same for microarray and RNA-seq studies, the data wrangling processes are very different. Hence, we provide two scripts for microarray studies and RNA-seq studies, respectively. Please browse the corresponding folders to find the script for demonstration. 
